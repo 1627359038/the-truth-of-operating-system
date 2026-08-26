@@ -2,7 +2,7 @@
 *.bin
 *.o
 *.img
-kernel
+kernel.bin
 
 # Bochs 输出
 bochs.out

@@ -1,0 +1,18 @@
+# 编译产物
+*.bin
+*.o
+*.img
+kernel
+
+# Bochs 输出
+bochs.out
+bochs.log
+
+# 编译目录
+bin/
+build/
+
+# 可选：PDF 和 readme 如果你想跟踪就删掉下面两行
+
+# readme.txt
+.vscode/
